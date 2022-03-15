@@ -1,4 +1,4 @@
-# Valheim Mod Patches
+# Valheim Mod Patches 🪓
 
 ### Features
 - Roof and fire checks disabled for crafting station
