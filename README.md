@@ -4,6 +4,7 @@
 - Roof and fire checks disabled for crafting station
 - Fire, exposure, and wet checks disabled for bed
 - Carry all items through portal
+- Start with base HP as 100
 
 ### Tools
 - [BepInEx Pack Valheim](https://valheim.thunderstore.io/package/denikson/BepInExPack_Valheim/)- Inject and Run DLLs
