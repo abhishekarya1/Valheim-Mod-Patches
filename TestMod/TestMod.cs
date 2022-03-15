@@ -8,8 +8,8 @@ namespace TestMod
     [BepInProcess("valheim.exe")]
     public class TestMod: BaseUnityPlugin
     {
-        const string pluginGUID = "com.dfuzer.testmod";
-        const string pluginName = "TestMod by dFuZeR";
+        const string pluginGUID = "com.aa1.testmod";
+        const string pluginName = "TestMod by aa1";
         const string pluginVersion = "0.0.1";
 
         private readonly Harmony harmony = new Harmony(pluginGUID);
