@@ -74,7 +74,7 @@ namespace TestMod
         }
 
         [HarmonyPatch(typeof(Player), "Awake")]
-        static class Food_Patch
+        static class HP_Patch
         {
             static void Postfix(ref float ___m_baseHP)
             {
